@@ -1,0 +1,5 @@
+*.pbix
+*.csv
+*.yaml
+.DS_Store
+Thumbs.db
