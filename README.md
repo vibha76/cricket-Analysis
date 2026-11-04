@@ -41,3 +41,4 @@ Cricsheet YAML, Python data preparation, Power BI Desktop, Power Query, DAX, dat
 ## Data notes
 
 The source YAML was flattened into a delivery-level table. A dot ball is a delivery on which the batting team scores zero total runs, including extras. Bowling wickets count only dismissal types credited to the bowler. Match details and figures are reproduced from the supplied project dataset; this portfolio is not an independently verified real-world match report. The editable Power BI `.pbix` file and original ball-by-ball data are not included in this public repository.
+
