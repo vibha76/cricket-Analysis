@@ -1,0 +1,15 @@
+{
+  "title": "South Africa vs Australia — Cricket Match Post-Mortem Analysis",
+  "format": "Test",
+  "venue": "St George's Park, Gqeberha",
+  "dates": ["2026-10-18", "2026-10-22"],
+  "result": "South Africa won by an innings and 31 runs",
+  "innings": [
+    {"team": "South Africa", "innings": 1, "runs": 425, "wickets": 9, "declared": true},
+    {"team": "Australia", "innings": 2, "runs": 99, "wickets": 10},
+    {"team": "Australia", "innings": 3, "runs": 295, "wickets": 10}
+  ],
+  "kpis": {"totalRuns": 819, "dismissals": 29, "boundaries": 96, "fours": 91, "sixes": 5, "dotBallPercentage": 73.26},
+  "dashboardPages": ["Match Overview", "Batting Analysis", "Bowling Analysis"],
+  "tools": ["Power BI", "Power Query", "DAX"]
+}
